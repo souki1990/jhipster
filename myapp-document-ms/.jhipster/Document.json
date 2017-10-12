@@ -1,0 +1,22 @@
+{
+    "fluentMethods": true,
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "label",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "type",
+            "fieldType": "String"
+        }
+    ],
+    "changelogDate": "20171012093425",
+    "dto": "no",
+    "service": "serviceImpl",
+    "entityTableName": "document",
+    "jpaMetamodelFiltering": false,
+    "pagination": "pagination",
+    "microserviceName": "myappdocumentms",
+    "searchEngine": false
+}
